@@ -12,7 +12,7 @@
 
 ## 📥 Download
 
-**[⬇️ Download APK](https://github.com/KSURitam/classic_nokia_snake_game/releases/tag/Apk)**
+**[⬇️ Download APK](https://github.com/Anshaks/classic_nokia_snake_game/releases/tag/Apk)**
 
 📲 Requires Android 5.0 or newer.
 
@@ -70,4 +70,4 @@ Inspired by the classic Nokia 3310 era:
 
 ## ⚠️ Disclaimer
 
-Classic Nokia Snake Game is inspired by classic Nokia-era Snake gameplay. It is an independent fan project and is not an official Nokia product. It is not affiliated with or endorsed by Nokia.
+**Classic Nokia Snake Game is inspired by classic Nokia-era Snake gameplay. It is an independent fan project and is not an official Nokia product. It is not affiliated with or endorsed by Nokia**
