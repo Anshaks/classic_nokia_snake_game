@@ -71,3 +71,6 @@ Inspired by the classic Nokia 3310 era:
 ## ⚠️ Disclaimer
 
 **Classic Nokia Snake Game is inspired by classic Nokia-era Snake gameplay. It is an independent fan project and is not an official Nokia product. It is not affiliated with or endorsed by Nokia**
+
+## Developers
+**Main Developers:** KSURitam & Anshaks
